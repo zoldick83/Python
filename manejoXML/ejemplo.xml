@@ -1,0 +1,33 @@
+		<Mensaje>
+			<Encabezado>
+				<id_mensaje>NP001</id_mensaje>
+				<desc_mensaje>Notificacion de Pago Empresa de Servico</desc_mensaje>
+				<version>2</version>
+				<recaudador>BCO-POP</recaudador>
+				<destino>EFT</destino>
+				<ref_destino>EPS</ref_destino>
+				<fecha>20240523</fecha>
+				<hora>155106</hora>
+				<id_operacion>31747283</id_operacion>
+				<canal>4</canal>
+				<moneda>DOP</moneda>
+				<id_trace>-1</id_trace>
+				<ruta_archivo/>
+			</Encabezado>
+			<Encabezado>
+				<id_mensaje>NP001</id_mensaje>
+				<desc_mensaje>Notificacion de Pago Empresa de Servico</desc_mensaje>
+				<version>2</version>
+				<recaudador>BCO-POP</recaudador>
+				<destino>EFT</destino>
+				<ref_destino>EPS</ref_destino>
+				<fecha>20240523</fecha>
+				<hora>155106</hora>
+				<id_operacion>31747283</id_operacion>
+				<canal>4</canal>
+				<moneda>DOP</moneda>
+				<id_trace>-1</id_trace>
+				<ruta_archivo/>
+			</Encabezado>
+		</Mensaje>
+			
