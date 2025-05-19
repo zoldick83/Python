@@ -4,5 +4,5 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-variable = os.getenv("ALEXIS")
-print(variable)
+variable1 = os.getenv("ALEXIS")
+print(variable1)
